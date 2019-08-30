@@ -80,3 +80,7 @@ docker run -d --name greeting -p 8000:8000 --rm alleycarvalho/desafio-k8s
 
 ### Print da execução (CI) no Cloud Build:
 ![CI](/desafio-k8s.png)
+
+### Executando com Kubernetes:
+
+**[Acessar aplicação rodando com Kubernetes](http://35.222.233.221:8000/)**
